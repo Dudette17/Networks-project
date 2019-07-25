@@ -1,4 +1,4 @@
-# Networks-project
+# OS project
 
 The sleeping teacher assistant problem is a classical example for inter process communication and process synchronization. 
 There is a teaching assistant (TA) that holds office hours where they provide help to undergraduate students with their programming assignments.
